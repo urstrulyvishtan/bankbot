@@ -1,0 +1,2 @@
+# bankbot
+In today’s world banking is also a platform which is almost automated. However many people face different issues during online banking and also many are not aware of correct safety measure for their accounts. To create a bot using Natural Language Processing and deep learning which will be able to give answers for various banking related issues like your bank id, transaction details, Security services, loan policies, your account status etc.
